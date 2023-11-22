@@ -1,0 +1,5162 @@
+{
+	"pokemon": [
+		{
+			"name": "Bulbasaur",
+			"frontSprite": "f_bulbasaur",
+			"backSprite": "b_bulbasaur",
+			"cr": 45,
+			"type": "Grass",
+			"type2": "Poison",
+			"hp": 45,
+			"atk": 49,
+			"def": 49,
+			"spat": 65,
+			"spdef": 65,
+			"speed": 45,
+			"moves": [
+				{
+					"name": "vine-whip",
+					"levelLearned": 10
+				},
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "growl",
+					"levelLearned": 4
+				},
+				{
+					"name": "leech-seed",
+					"levelLearned": 7
+				},
+				{
+					"name": "growth",
+					"levelLearned": 32
+				},
+				{
+					"name": "razor-leaf",
+					"levelLearned": 20
+				},
+				{
+					"name": "solar-beam",
+					"levelLearned": 46
+				},
+				{
+					"name": "poison-powder",
+					"levelLearned": 15
+				},
+				{
+					"name": "sleep-powder",
+					"levelLearned": 15
+				},
+				{
+					"name": "sweet-scent",
+					"levelLearned": 25
+				},
+				{
+					"name": "synthesis",
+					"levelLearned": 39
+				}
+			]
+		},
+		{
+			"name": "Ivysaur",
+			"frontSprite": "f_ivysaur",
+			"backSprite": "b_ivysaur",
+			"cr": 45,
+			"type": "Grass",
+			"type2": "Poison",
+			"hp": 60,
+			"atk": 62,
+			"def": 63,
+			"spat": 80,
+			"spdef": 80,
+			"speed": 60,
+			"moves": [
+				{
+					"name": "vine-whip",
+					"levelLearned": 10
+				},
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "growl",
+					"levelLearned": 4
+				},
+				{
+					"name": "leech-seed",
+					"levelLearned": 1
+				},
+				{
+					"name": "leech-seed",
+					"levelLearned": 7
+				},
+				{
+					"name": "growth",
+					"levelLearned": 38
+				},
+				{
+					"name": "razor-leaf",
+					"levelLearned": 22
+				},
+				{
+					"name": "solar-beam",
+					"levelLearned": 56
+				},
+				{
+					"name": "poison-powder",
+					"levelLearned": 15
+				},
+				{
+					"name": "sleep-powder",
+					"levelLearned": 15
+				},
+				{
+					"name": "sweet-scent",
+					"levelLearned": 29
+				},
+				{
+					"name": "synthesis",
+					"levelLearned": 47
+				}
+			]
+		},
+		{
+			"name": "Venusaur",
+			"frontSprite": "f_venusaur",
+			"backSprite": "b_venusaur",
+			"cr": 45,
+			"type": "Grass",
+			"type2": "Poison",
+			"hp": 80,
+			"atk": 82,
+			"def": 83,
+			"spat": 100,
+			"spdef": 100,
+			"speed": 80,
+			"moves": [
+				{
+					"name": "vine-whip",
+					"levelLearned": 1
+				},
+				{
+					"name": "vine-whip",
+					"levelLearned": 10
+				},
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "growl",
+					"levelLearned": 4
+				},
+				{
+					"name": "leech-seed",
+					"levelLearned": 1
+				},
+				{
+					"name": "leech-seed",
+					"levelLearned": 7
+				},
+				{
+					"name": "growth",
+					"levelLearned": 41
+				},
+				{
+					"name": "razor-leaf",
+					"levelLearned": 22
+				},
+				{
+					"name": "solar-beam",
+					"levelLearned": 65
+				},
+				{
+					"name": "poison-powder",
+					"levelLearned": 15
+				},
+				{
+					"name": "sleep-powder",
+					"levelLearned": 15
+				},
+				{
+					"name": "sweet-scent",
+					"levelLearned": 29
+				},
+				{
+					"name": "synthesis",
+					"levelLearned": 53
+				}
+			]
+		},
+		{
+			"name": "Charmander",
+			"frontSprite": "f_charmander",
+			"backSprite": "b_charmander",
+			"cr": 45,
+			"type": "Fire",
+			"type2": "None",
+			"hp": 39,
+			"atk": 52,
+			"def": 43,
+			"spat": 60,
+			"spdef": 50,
+			"speed": 65,
+			"moves": [
+				{
+					"name": "scratch",
+					"levelLearned": 1
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 7
+				},
+				{
+					"name": "flamethrower",
+					"levelLearned": 31
+				},
+				{
+					"name": "dragon-rage",
+					"levelLearned": 43
+				},
+				{
+					"name": "fire-spin",
+					"levelLearned": 49
+				},
+				{
+					"name": "rage",
+					"levelLearned": 19
+				},
+				{
+					"name": "smokescreen",
+					"levelLearned": 13
+				},
+				{
+					"name": "slash",
+					"levelLearned": 37
+				},
+				{
+					"name": "scary-face",
+					"levelLearned": 25
+				}
+			]
+		},
+		{
+			"name": "Charmeleon",
+			"frontSprite": "f_charmeleon",
+			"backSprite": "b_charmeleon",
+			"cr": 45,
+			"type": "Fire",
+			"type2": "None",
+			"hp": 58,
+			"atk": 64,
+			"def": 58,
+			"spat": 80,
+			"spdef": 65,
+			"speed": 80,
+			"moves": [
+				{
+					"name": "scratch",
+					"levelLearned": 1
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 7
+				},
+				{
+					"name": "flamethrower",
+					"levelLearned": 34
+				},
+				{
+					"name": "dragon-rage",
+					"levelLearned": 48
+				},
+				{
+					"name": "fire-spin",
+					"levelLearned": 55
+				},
+				{
+					"name": "rage",
+					"levelLearned": 20
+				},
+				{
+					"name": "smokescreen",
+					"levelLearned": 13
+				},
+				{
+					"name": "slash",
+					"levelLearned": 41
+				},
+				{
+					"name": "scary-face",
+					"levelLearned": 27
+				}
+			]
+		},
+		{
+			"name": "Charizard",
+			"frontSprite": "f_charizard",
+			"backSprite": "b_charizard",
+			"cr": 45,
+			"type": "Fire",
+			"type2": "Flying",
+			"hp": 78,
+			"atk": 84,
+			"def": 78,
+			"spat": 109,
+			"spdef": 85,
+			"speed": 100,
+			"moves": [
+				{
+					"name": "scratch",
+					"levelLearned": 1
+				},
+				{
+					"name": "wing-attack",
+					"levelLearned": 36
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 7
+				},
+				{
+					"name": "flamethrower",
+					"levelLearned": 34
+				},
+				{
+					"name": "dragon-rage",
+					"levelLearned": 54
+				},
+				{
+					"name": "fire-spin",
+					"levelLearned": 64
+				},
+				{
+					"name": "rage",
+					"levelLearned": 20
+				},
+				{
+					"name": "smokescreen",
+					"levelLearned": 1
+				},
+				{
+					"name": "smokescreen",
+					"levelLearned": 13
+				},
+				{
+					"name": "slash",
+					"levelLearned": 44
+				},
+				{
+					"name": "scary-face",
+					"levelLearned": 27
+				}
+			]
+		},
+		{
+			"name": "Squirtle",
+			"frontSprite": "f_squirtle",
+			"backSprite": "b_squirtle",
+			"cr": 45,
+			"type": "Water",
+			"type2": "None",
+			"hp": 44,
+			"atk": 48,
+			"def": 65,
+			"spat": 50,
+			"spdef": 64,
+			"speed": 43,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "tail-whip",
+					"levelLearned": 4
+				},
+				{
+					"name": "bite",
+					"levelLearned": 18
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 13
+				},
+				{
+					"name": "hydro-pump",
+					"levelLearned": 47
+				},
+				{
+					"name": "withdraw",
+					"levelLearned": 10
+				},
+				{
+					"name": "skull-bash",
+					"levelLearned": 40
+				},
+				{
+					"name": "bubble",
+					"levelLearned": 7
+				},
+				{
+					"name": "protect",
+					"levelLearned": 28
+				},
+				{
+					"name": "rapid-spin",
+					"levelLearned": 23
+				},
+				{
+					"name": "rain-dance",
+					"levelLearned": 33
+				}
+			]
+		},
+		{
+			"name": "Wartortle",
+			"frontSprite": "f_wartortle",
+			"backSprite": "b_wartortle",
+			"cr": 45,
+			"type": "Water",
+			"type2": "None",
+			"hp": 59,
+			"atk": 63,
+			"def": 80,
+			"spat": 65,
+			"spdef": 80,
+			"speed": 58,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "tail-whip",
+					"levelLearned": 1
+				},
+				{
+					"name": "tail-whip",
+					"levelLearned": 4
+				},
+				{
+					"name": "bite",
+					"levelLearned": 19
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 13
+				},
+				{
+					"name": "hydro-pump",
+					"levelLearned": 53
+				},
+				{
+					"name": "withdraw",
+					"levelLearned": 10
+				},
+				{
+					"name": "skull-bash",
+					"levelLearned": 45
+				},
+				{
+					"name": "bubble",
+					"levelLearned": 1
+				},
+				{
+					"name": "bubble",
+					"levelLearned": 7
+				},
+				{
+					"name": "protect",
+					"levelLearned": 31
+				},
+				{
+					"name": "rapid-spin",
+					"levelLearned": 25
+				},
+				{
+					"name": "rain-dance",
+					"levelLearned": 37
+				}
+			]
+		},
+		{
+			"name": "Blastoise",
+			"frontSprite": "f_blastoise",
+			"backSprite": "b_blastoise",
+			"cr": 45,
+			"type": "Water",
+			"type2": "None",
+			"hp": 79,
+			"atk": 83,
+			"def": 100,
+			"spat": 85,
+			"spdef": 105,
+			"speed": 78,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "tail-whip",
+					"levelLearned": 1
+				},
+				{
+					"name": "tail-whip",
+					"levelLearned": 4
+				},
+				{
+					"name": "bite",
+					"levelLearned": 19
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 13
+				},
+				{
+					"name": "hydro-pump",
+					"levelLearned": 68
+				},
+				{
+					"name": "withdraw",
+					"levelLearned": 1
+				},
+				{
+					"name": "withdraw",
+					"levelLearned": 10
+				},
+				{
+					"name": "skull-bash",
+					"levelLearned": 55
+				},
+				{
+					"name": "bubble",
+					"levelLearned": 1
+				},
+				{
+					"name": "bubble",
+					"levelLearned": 7
+				},
+				{
+					"name": "protect",
+					"levelLearned": 31
+				},
+				{
+					"name": "rapid-spin",
+					"levelLearned": 25
+				},
+				{
+					"name": "rain-dance",
+					"levelLearned": 42
+				}
+			]
+		},
+		{
+			"name": "Pidgey",
+			"frontSprite": "f_pidgey",
+			"backSprite": "b_pidgey",
+			"cr": 255,
+			"type": "Normal",
+			"type2": "Flying",
+			"hp": 40,
+			"atk": 45,
+			"def": 40,
+			"spat": 35,
+			"spdef": 35,
+			"speed": 56,
+			"moves": [
+				{
+					"name": "gust",
+					"levelLearned": 9
+				},
+				{
+					"name": "wing-attack",
+					"levelLearned": 25
+				},
+				{
+					"name": "whirlwind",
+					"levelLearned": 19
+				},
+				{
+					"name": "sand-attack",
+					"levelLearned": 5
+				},
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "agility",
+					"levelLearned": 39
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 13
+				},
+				{
+					"name": "mirror-move",
+					"levelLearned": 47
+				},
+				{
+					"name": "feather-dance",
+					"levelLearned": 31
+				}
+			]
+		},
+		{
+			"name": "Pidgeotto",
+			"frontSprite": "f_pidgeotto",
+			"backSprite": "b_pidgeotto",
+			"cr": 120,
+			"type": "Normal",
+			"type2": "Flying",
+			"hp": 63,
+			"atk": 60,
+			"def": 55,
+			"spat": 50,
+			"spdef": 50,
+			"speed": 71,
+			"moves": [
+				{
+					"name": "gust",
+					"levelLearned": 1
+				},
+				{
+					"name": "gust",
+					"levelLearned": 9
+				},
+				{
+					"name": "wing-attack",
+					"levelLearned": 27
+				},
+				{
+					"name": "whirlwind",
+					"levelLearned": 20
+				},
+				{
+					"name": "sand-attack",
+					"levelLearned": 1
+				},
+				{
+					"name": "sand-attack",
+					"levelLearned": 5
+				},
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "agility",
+					"levelLearned": 43
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 13
+				},
+				{
+					"name": "mirror-move",
+					"levelLearned": 52
+				},
+				{
+					"name": "feather-dance",
+					"levelLearned": 34
+				}
+			]
+		},
+		{
+			"name": "Pidgeot",
+			"frontSprite": "f_pidgeot",
+			"backSprite": "b_pidgeot",
+			"cr": 45,
+			"type": "Normal",
+			"type2": "Flying",
+			"hp": 83,
+			"atk": 80,
+			"def": 75,
+			"spat": 70,
+			"spdef": 70,
+			"speed": 101,
+			"moves": [
+				{
+					"name": "gust",
+					"levelLearned": 1
+				},
+				{
+					"name": "gust",
+					"levelLearned": 9
+				},
+				{
+					"name": "wing-attack",
+					"levelLearned": 27
+				},
+				{
+					"name": "whirlwind",
+					"levelLearned": 20
+				},
+				{
+					"name": "sand-attack",
+					"levelLearned": 1
+				},
+				{
+					"name": "sand-attack",
+					"levelLearned": 5
+				},
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "agility",
+					"levelLearned": 48
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 1
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 13
+				},
+				{
+					"name": "mirror-move",
+					"levelLearned": 62
+				},
+				{
+					"name": "feather-dance",
+					"levelLearned": 34
+				}
+			]
+		},
+		{
+			"name": "Pikachu",
+			"frontSprite": "f_pikachu",
+			"backSprite": "b_pikachu",
+			"cr": 190,
+			"type": "Electric",
+			"type2": "None",
+			"hp": 35,
+			"atk": 55,
+			"def": 40,
+			"spat": 50,
+			"spdef": 50,
+			"speed": 90,
+			"moves": [
+				{
+					"name": "slam",
+					"levelLearned": 20
+				},
+				{
+					"name": "tail-whip",
+					"levelLearned": 6
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "thunder-shock",
+					"levelLearned": 1
+				},
+				{
+					"name": "thunderbolt",
+					"levelLearned": 26
+				},
+				{
+					"name": "thunder-wave",
+					"levelLearned": 8
+				},
+				{
+					"name": "thunder",
+					"levelLearned": 41
+				},
+				{
+					"name": "agility",
+					"levelLearned": 33
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 11
+				},
+				{
+					"name": "double-team",
+					"levelLearned": 15
+				},
+				{
+					"name": "light-screen",
+					"levelLearned": 50
+				}
+			]
+		},
+		{
+			"name": "Raichu",
+			"frontSprite": "f_raichu",
+			"backSprite": "b_raichu",
+			"cr": 75,
+			"type": "Electric",
+			"type2": "None",
+			"hp": 60,
+			"atk": 90,
+			"def": 55,
+			"spat": 90,
+			"spdef": 80,
+			"speed": 110,
+			"moves": [
+				{
+					"name": "tail-whip",
+					"levelLearned": 1
+				},
+				{
+					"name": "thunder-shock",
+					"levelLearned": 1
+				},
+				{
+					"name": "thunderbolt",
+					"levelLearned": 1
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 1
+				}
+			]
+		},
+		{
+			"name": "Gastly",
+			"frontSprite": "f_gastly",
+			"backSprite": "b_gastly",
+			"cr": 190,
+			"type": "Ghost",
+			"type2": "Poison",
+			"hp": 30,
+			"atk": 35,
+			"def": 30,
+			"spat": 100,
+			"spdef": 35,
+			"speed": 80,
+			"moves": [
+				{
+					"name": "hypnosis",
+					"levelLearned": 1
+				},
+				{
+					"name": "night-shade",
+					"levelLearned": 21
+				},
+				{
+					"name": "confuse-ray",
+					"levelLearned": 28
+				},
+				{
+					"name": "lick",
+					"levelLearned": 1
+				},
+				{
+					"name": "dream-eater",
+					"levelLearned": 33
+				},
+				{
+					"name": "curse",
+					"levelLearned": 16
+				},
+				{
+					"name": "spite",
+					"levelLearned": 8
+				},
+				{
+					"name": "destiny-bond",
+					"levelLearned": 36
+				},
+				{
+					"name": "mean-look",
+					"levelLearned": 13
+				}
+			]
+		},
+		{
+			"name": "Haunter",
+			"frontSprite": "f_haunter",
+			"backSprite": "b_haunter",
+			"cr": 90,
+			"type": "Ghost",
+			"type2": "Poison",
+			"hp": 45,
+			"atk": 50,
+			"def": 45,
+			"spat": 115,
+			"spdef": 55,
+			"speed": 95,
+			"moves": [
+				{
+					"name": "hypnosis",
+					"levelLearned": 1
+				},
+				{
+					"name": "night-shade",
+					"levelLearned": 21
+				},
+				{
+					"name": "confuse-ray",
+					"levelLearned": 31
+				},
+				{
+					"name": "lick",
+					"levelLearned": 1
+				},
+				{
+					"name": "dream-eater",
+					"levelLearned": 39
+				},
+				{
+					"name": "curse",
+					"levelLearned": 16
+				},
+				{
+					"name": "spite",
+					"levelLearned": 1
+				},
+				{
+					"name": "spite",
+					"levelLearned": 8
+				},
+				{
+					"name": "destiny-bond",
+					"levelLearned": 48
+				},
+				{
+					"name": "mean-look",
+					"levelLearned": 13
+				},
+				{
+					"name": "shadow-punch",
+					"levelLearned": 25
+				}
+			]
+		},
+		{
+			"name": "Gengar",
+			"frontSprite": "f_gengar",
+			"backSprite": "b_gengar",
+			"cr": 45,
+			"type": "Ghost",
+			"type2": "Poison",
+			"hp": 60,
+			"atk": 65,
+			"def": 60,
+			"spat": 130,
+			"spdef": 75,
+			"speed": 110,
+			"moves": [
+				{
+					"name": "hypnosis",
+					"levelLearned": 1
+				},
+				{
+					"name": "night-shade",
+					"levelLearned": 21
+				},
+				{
+					"name": "confuse-ray",
+					"levelLearned": 31
+				},
+				{
+					"name": "lick",
+					"levelLearned": 1
+				},
+				{
+					"name": "dream-eater",
+					"levelLearned": 39
+				},
+				{
+					"name": "curse",
+					"levelLearned": 16
+				},
+				{
+					"name": "spite",
+					"levelLearned": 1
+				},
+				{
+					"name": "spite",
+					"levelLearned": 8
+				},
+				{
+					"name": "destiny-bond",
+					"levelLearned": 48
+				},
+				{
+					"name": "mean-look",
+					"levelLearned": 13
+				},
+				{
+					"name": "shadow-punch",
+					"levelLearned": 25
+				}
+			]
+		},
+		{
+			"name": "Lapras",
+			"frontSprite": "f_lapras",
+			"backSprite": "b_lapras",
+			"cr": 45,
+			"type": "Water",
+			"type2": "Ice",
+			"hp": 130,
+			"atk": 85,
+			"def": 80,
+			"spat": 85,
+			"spdef": 95,
+			"speed": 60,
+			"moves": [
+				{
+					"name": "body-slam",
+					"levelLearned": 13
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "sing",
+					"levelLearned": 1
+				},
+				{
+					"name": "mist",
+					"levelLearned": 7
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 1
+				},
+				{
+					"name": "hydro-pump",
+					"levelLearned": 49
+				},
+				{
+					"name": "ice-beam",
+					"levelLearned": 31
+				},
+				{
+					"name": "confuse-ray",
+					"levelLearned": 19
+				},
+				{
+					"name": "perish-song",
+					"levelLearned": 25
+				},
+				{
+					"name": "safeguard",
+					"levelLearned": 43
+				},
+				{
+					"name": "rain-dance",
+					"levelLearned": 37
+				},
+				{
+					"name": "sheer-cold",
+					"levelLearned": 55
+				}
+			]
+		},
+		{
+			"name": "Snorlax",
+			"frontSprite": "f_snorlax",
+			"backSprite": "b_snorlax",
+			"cr": 25,
+			"type": "Normal",
+			"type2": "None",
+			"hp": 160,
+			"atk": 110,
+			"def": 65,
+			"spat": 65,
+			"spdef": 110,
+			"speed": 30,
+			"moves": [
+				{
+					"name": "headbutt",
+					"levelLearned": 19
+				},
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "body-slam",
+					"levelLearned": 33
+				},
+				{
+					"name": "hyper-beam",
+					"levelLearned": 51
+				},
+				{
+					"name": "defense-curl",
+					"levelLearned": 10
+				},
+				{
+					"name": "amnesia",
+					"levelLearned": 6
+				},
+				{
+					"name": "rest",
+					"levelLearned": 28
+				},
+				{
+					"name": "snore",
+					"levelLearned": 28
+				},
+				{
+					"name": "belly-drum",
+					"levelLearned": 15
+				},
+				{
+					"name": "rollout",
+					"levelLearned": 46
+				},
+				{
+					"name": "yawn",
+					"levelLearned": 24
+				},
+				{
+					"name": "block",
+					"levelLearned": 37
+				},
+				{
+					"name": "covet",
+					"levelLearned": 42
+				}
+			]
+		},
+		{
+			"name": "Articuno",
+			"frontSprite": "f_articuno",
+			"backSprite": "b_articuno",
+			"cr": 3,
+			"type": "Ice",
+			"type2": "Flying",
+			"hp": 90,
+			"atk": 85,
+			"def": 100,
+			"spat": 95,
+			"spdef": 125,
+			"speed": 85,
+			"moves": [
+				{
+					"name": "gust",
+					"levelLearned": 1
+				},
+				{
+					"name": "mist",
+					"levelLearned": 13
+				},
+				{
+					"name": "ice-beam",
+					"levelLearned": 49
+				},
+				{
+					"name": "blizzard",
+					"levelLearned": 73
+				},
+				{
+					"name": "agility",
+					"levelLearned": 25
+				},
+				{
+					"name": "reflect",
+					"levelLearned": 61
+				},
+				{
+					"name": "mind-reader",
+					"levelLearned": 37
+				},
+				{
+					"name": "powder-snow",
+					"levelLearned": 1
+				},
+				{
+					"name": "sheer-cold",
+					"levelLearned": 85
+				}
+			]
+		},
+		{
+			"name": "Zapdos",
+			"frontSprite": "f_zapdos",
+			"backSprite": "b_zapdos",
+			"cr": 3,
+			"type": "Electric",
+			"type2": "Flying",
+			"hp": 90,
+			"atk": 90,
+			"def": 85,
+			"spat": 125,
+			"spdef": 90,
+			"speed": 100,
+			"moves": [
+				{
+					"name": "peck",
+					"levelLearned": 1
+				},
+				{
+					"name": "drill-peck",
+					"levelLearned": 49
+				},
+				{
+					"name": "thunder-shock",
+					"levelLearned": 1
+				},
+				{
+					"name": "thunder-wave",
+					"levelLearned": 13
+				},
+				{
+					"name": "thunder",
+					"levelLearned": 85
+				},
+				{
+					"name": "agility",
+					"levelLearned": 25
+				},
+				{
+					"name": "light-screen",
+					"levelLearned": 73
+				},
+				{
+					"name": "detect",
+					"levelLearned": 37
+				},
+				{
+					"name": "charge",
+					"levelLearned": 61
+				}
+			]
+		},
+		{
+			"name": "Moltres",
+			"frontSprite": "f_moltres",
+			"backSprite": "b_moltres",
+			"cr": 3,
+			"type": "Fire",
+			"type2": "Flying",
+			"hp": 90,
+			"atk": 100,
+			"def": 90,
+			"spat": 125,
+			"spdef": 85,
+			"speed": 90,
+			"moves": [
+				{
+					"name": "wing-attack",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 1
+				},
+				{
+					"name": "flamethrower",
+					"levelLearned": 49
+				},
+				{
+					"name": "fire-spin",
+					"levelLearned": 13
+				},
+				{
+					"name": "agility",
+					"levelLearned": 25
+				},
+				{
+					"name": "sky-attack",
+					"levelLearned": 85
+				},
+				{
+					"name": "endure",
+					"levelLearned": 37
+				},
+				{
+					"name": "safeguard",
+					"levelLearned": 61
+				},
+				{
+					"name": "heat-wave",
+					"levelLearned": 73
+				}
+			]
+		},
+		{
+			"name": "Dratini",
+			"frontSprite": "f_dratini",
+			"backSprite": "b_dratini",
+			"cr": 45,
+			"type": "Dragon",
+			"type2": "None",
+			"hp": 41,
+			"atk": 64,
+			"def": 45,
+			"spat": 50,
+			"spdef": 50,
+			"speed": 50,
+			"moves": [
+				{
+					"name": "slam",
+					"levelLearned": 29
+				},
+				{
+					"name": "wrap",
+					"levelLearned": 1
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "hyper-beam",
+					"levelLearned": 57
+				},
+				{
+					"name": "dragon-rage",
+					"levelLearned": 22
+				},
+				{
+					"name": "thunder-wave",
+					"levelLearned": 8
+				},
+				{
+					"name": "agility",
+					"levelLearned": 36
+				},
+				{
+					"name": "outrage",
+					"levelLearned": 50
+				},
+				{
+					"name": "safeguard",
+					"levelLearned": 43
+				},
+				{
+					"name": "twister",
+					"levelLearned": 15
+				}
+			]
+		},
+		{
+			"name": "Dragonair",
+			"frontSprite": "f_dragonair",
+			"backSprite": "b_dragonair",
+			"cr": 45,
+			"type": "Dragon",
+			"type2": "None",
+			"hp": 61,
+			"atk": 84,
+			"def": 65,
+			"spat": 70,
+			"spdef": 70,
+			"speed": 70,
+			"moves": [
+				{
+					"name": "slam",
+					"levelLearned": 29
+				},
+				{
+					"name": "wrap",
+					"levelLearned": 1
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "hyper-beam",
+					"levelLearned": 65
+				},
+				{
+					"name": "dragon-rage",
+					"levelLearned": 22
+				},
+				{
+					"name": "thunder-wave",
+					"levelLearned": 1
+				},
+				{
+					"name": "thunder-wave",
+					"levelLearned": 8
+				},
+				{
+					"name": "agility",
+					"levelLearned": 38
+				},
+				{
+					"name": "outrage",
+					"levelLearned": 56
+				},
+				{
+					"name": "safeguard",
+					"levelLearned": 47
+				},
+				{
+					"name": "twister",
+					"levelLearned": 1
+				},
+				{
+					"name": "twister",
+					"levelLearned": 15
+				}
+			]
+		},
+		{
+			"name": "Dragonite",
+			"frontSprite": "f_dragonite",
+			"backSprite": "b_dragonite",
+			"cr": 45,
+			"type": "Dragon",
+			"type2": "Flying",
+			"hp": 91,
+			"atk": 134,
+			"def": 95,
+			"spat": 100,
+			"spdef": 100,
+			"speed": 80,
+			"moves": [
+				{
+					"name": "wing-attack",
+					"levelLearned": 55
+				},
+				{
+					"name": "slam",
+					"levelLearned": 29
+				},
+				{
+					"name": "wrap",
+					"levelLearned": 1
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "hyper-beam",
+					"levelLearned": 75
+				},
+				{
+					"name": "dragon-rage",
+					"levelLearned": 22
+				},
+				{
+					"name": "thunder-wave",
+					"levelLearned": 1
+				},
+				{
+					"name": "thunder-wave",
+					"levelLearned": 8
+				},
+				{
+					"name": "agility",
+					"levelLearned": 38
+				},
+				{
+					"name": "outrage",
+					"levelLearned": 61
+				},
+				{
+					"name": "safeguard",
+					"levelLearned": 47
+				},
+				{
+					"name": "twister",
+					"levelLearned": 1
+				},
+				{
+					"name": "twister",
+					"levelLearned": 15
+				}
+			]
+		},
+		{
+			"name": "Chikorita",
+			"frontSprite": "f_chikorita",
+			"backSprite": "b_chikorita",
+			"cr": 45,
+			"type": "Grass",
+			"type2": "None",
+			"hp": 45,
+			"atk": 49,
+			"def": 65,
+			"spat": 49,
+			"spdef": 65,
+			"speed": 45,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "body-slam",
+					"levelLearned": 29
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "razor-leaf",
+					"levelLearned": 8
+				},
+				{
+					"name": "solar-beam",
+					"levelLearned": 50
+				},
+				{
+					"name": "poison-powder",
+					"levelLearned": 15
+				},
+				{
+					"name": "light-screen",
+					"levelLearned": 36
+				},
+				{
+					"name": "reflect",
+					"levelLearned": 12
+				},
+				{
+					"name": "safeguard",
+					"levelLearned": 43
+				},
+				{
+					"name": "synthesis",
+					"levelLearned": 22
+				}
+			]
+		},
+		{
+			"name": "Bayleef",
+			"frontSprite": "f_bayleef",
+			"backSprite": "b_bayleef",
+			"cr": 45,
+			"type": "Grass",
+			"type2": "None",
+			"hp": 60,
+			"atk": 62,
+			"def": 80,
+			"spat": 63,
+			"spdef": 80,
+			"speed": 60,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "body-slam",
+					"levelLearned": 31
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "razor-leaf",
+					"levelLearned": 1
+				},
+				{
+					"name": "razor-leaf",
+					"levelLearned": 8
+				},
+				{
+					"name": "solar-beam",
+					"levelLearned": 55
+				},
+				{
+					"name": "poison-powder",
+					"levelLearned": 15
+				},
+				{
+					"name": "light-screen",
+					"levelLearned": 39
+				},
+				{
+					"name": "reflect",
+					"levelLearned": 1
+				},
+				{
+					"name": "reflect",
+					"levelLearned": 12
+				},
+				{
+					"name": "safeguard",
+					"levelLearned": 47
+				},
+				{
+					"name": "synthesis",
+					"levelLearned": 23
+				}
+			]
+		},
+		{
+			"name": "Meganium",
+			"frontSprite": "f_meganium",
+			"backSprite": "b_meganium",
+			"cr": 45,
+			"type": "Grass",
+			"type2": "None",
+			"hp": 80,
+			"atk": 82,
+			"def": 100,
+			"spat": 83,
+			"spdef": 100,
+			"speed": 80,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "body-slam",
+					"levelLearned": 31
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "razor-leaf",
+					"levelLearned": 1
+				},
+				{
+					"name": "razor-leaf",
+					"levelLearned": 8
+				},
+				{
+					"name": "solar-beam",
+					"levelLearned": 61
+				},
+				{
+					"name": "poison-powder",
+					"levelLearned": 15
+				},
+				{
+					"name": "light-screen",
+					"levelLearned": 41
+				},
+				{
+					"name": "reflect",
+					"levelLearned": 1
+				},
+				{
+					"name": "reflect",
+					"levelLearned": 12
+				},
+				{
+					"name": "safeguard",
+					"levelLearned": 51
+				},
+				{
+					"name": "synthesis",
+					"levelLearned": 23
+				}
+			]
+		},
+		{
+			"name": "Cyndaquil",
+			"frontSprite": "f_cyndaquil",
+			"backSprite": "b_cyndaquil",
+			"cr": 45,
+			"type": "Fire",
+			"type2": "None",
+			"hp": 39,
+			"atk": 52,
+			"def": 43,
+			"spat": 60,
+			"spdef": 50,
+			"speed": 65,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 12
+				},
+				{
+					"name": "flamethrower",
+					"levelLearned": 46
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 19
+				},
+				{
+					"name": "smokescreen",
+					"levelLearned": 6
+				},
+				{
+					"name": "swift",
+					"levelLearned": 36
+				},
+				{
+					"name": "flame-wheel",
+					"levelLearned": 27
+				}
+			]
+		},
+		{
+			"name": "Quilava",
+			"frontSprite": "f_quilava",
+			"backSprite": "b_quilava",
+			"cr": 45,
+			"type": "Fire",
+			"type2": "None",
+			"hp": 58,
+			"atk": 64,
+			"def": 58,
+			"spat": 80,
+			"spdef": 65,
+			"speed": 80,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 12
+				},
+				{
+					"name": "flamethrower",
+					"levelLearned": 54
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 21
+				},
+				{
+					"name": "smokescreen",
+					"levelLearned": 1
+				},
+				{
+					"name": "smokescreen",
+					"levelLearned": 6
+				},
+				{
+					"name": "swift",
+					"levelLearned": 42
+				},
+				{
+					"name": "flame-wheel",
+					"levelLearned": 31
+				}
+			]
+		},
+		{
+			"name": "Typhlosion",
+			"frontSprite": "f_typhlosion",
+			"backSprite": "b_typhlosion",
+			"cr": 45,
+			"type": "Fire",
+			"type2": "None",
+			"hp": 78,
+			"atk": 84,
+			"def": 78,
+			"spat": 109,
+			"spdef": 85,
+			"speed": 100,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 12
+				},
+				{
+					"name": "flamethrower",
+					"levelLearned": 60
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 21
+				},
+				{
+					"name": "smokescreen",
+					"levelLearned": 1
+				},
+				{
+					"name": "smokescreen",
+					"levelLearned": 6
+				},
+				{
+					"name": "swift",
+					"levelLearned": 45
+				},
+				{
+					"name": "flame-wheel",
+					"levelLearned": 31
+				}
+			]
+		},
+		{
+			"name": "Totodile",
+			"frontSprite": "f_totodile",
+			"backSprite": "b_totodile",
+			"cr": 45,
+			"type": "Water",
+			"type2": "None",
+			"hp": 50,
+			"atk": 65,
+			"def": 64,
+			"spat": 44,
+			"spdef": 48,
+			"speed": 43,
+			"moves": [
+				{
+					"name": "scratch",
+					"levelLearned": 1
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "bite",
+					"levelLearned": 20
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 13
+				},
+				{
+					"name": "hydro-pump",
+					"levelLearned": 52
+				},
+				{
+					"name": "rage",
+					"levelLearned": 7
+				},
+				{
+					"name": "screech",
+					"levelLearned": 43
+				},
+				{
+					"name": "slash",
+					"levelLearned": 35
+				},
+				{
+					"name": "scary-face",
+					"levelLearned": 27
+				}
+			]
+		},
+		{
+			"name": "Croconaw",
+			"frontSprite": "f_croconaw",
+			"backSprite": "b_croconaw",
+			"cr": 45,
+			"type": "Water",
+			"type2": "None",
+			"hp": 65,
+			"atk": 80,
+			"def": 80,
+			"spat": 59,
+			"spdef": 63,
+			"speed": 58,
+			"moves": [
+				{
+					"name": "scratch",
+					"levelLearned": 1
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "bite",
+					"levelLearned": 21
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 13
+				},
+				{
+					"name": "hydro-pump",
+					"levelLearned": 55
+				},
+				{
+					"name": "rage",
+					"levelLearned": 1
+				},
+				{
+					"name": "rage",
+					"levelLearned": 7
+				},
+				{
+					"name": "screech",
+					"levelLearned": 45
+				},
+				{
+					"name": "slash",
+					"levelLearned": 37
+				},
+				{
+					"name": "scary-face",
+					"levelLearned": 28
+				}
+			]
+		},
+		{
+			"name": "Feraligatr",
+			"frontSprite": "f_feraligatr",
+			"backSprite": "b_feraligatr",
+			"cr": 45,
+			"type": "Water",
+			"type2": "None",
+			"hp": 85,
+			"atk": 105,
+			"def": 100,
+			"spat": 79,
+			"spdef": 83,
+			"speed": 78,
+			"moves": [
+				{
+					"name": "scratch",
+					"levelLearned": 1
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "bite",
+					"levelLearned": 21
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 1
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 13
+				},
+				{
+					"name": "hydro-pump",
+					"levelLearned": 58
+				},
+				{
+					"name": "rage",
+					"levelLearned": 1
+				},
+				{
+					"name": "rage",
+					"levelLearned": 7
+				},
+				{
+					"name": "screech",
+					"levelLearned": 47
+				},
+				{
+					"name": "slash",
+					"levelLearned": 38
+				},
+				{
+					"name": "scary-face",
+					"levelLearned": 28
+				}
+			]
+		},
+		{
+			"name": "Treecko",
+			"frontSprite": "f_treecko",
+			"backSprite": "b_treecko",
+			"cr": 45,
+			"type": "Grass",
+			"type2": "None",
+			"hp": 40,
+			"atk": 45,
+			"def": 35,
+			"spat": 65,
+			"spdef": 55,
+			"speed": 70,
+			"moves": [
+				{
+					"name": "pound",
+					"levelLearned": 1
+				},
+				{
+					"name": "slam",
+					"levelLearned": 36
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "absorb",
+					"levelLearned": 6
+				},
+				{
+					"name": "mega-drain",
+					"levelLearned": 26
+				},
+				{
+					"name": "agility",
+					"levelLearned": 31
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 11
+				},
+				{
+					"name": "screech",
+					"levelLearned": 21
+				},
+				{
+					"name": "detect",
+					"levelLearned": 41
+				},
+				{
+					"name": "giga-drain",
+					"levelLearned": 46
+				},
+				{
+					"name": "pursuit",
+					"levelLearned": 16
+				}
+			]
+		},
+		{
+			"name": "Grovyle",
+			"frontSprite": "f_grovyle",
+			"backSprite": "b_grovyle",
+			"cr": 45,
+			"type": "Grass",
+			"type2": "None",
+			"hp": 50,
+			"atk": 65,
+			"def": 45,
+			"spat": 85,
+			"spdef": 65,
+			"speed": 95,
+			"moves": [
+				{
+					"name": "pound",
+					"levelLearned": 1
+				},
+				{
+					"name": "slam",
+					"levelLearned": 41
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "absorb",
+					"levelLearned": 1
+				},
+				{
+					"name": "absorb",
+					"levelLearned": 6
+				},
+				{
+					"name": "agility",
+					"levelLearned": 35
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 1
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 11
+				},
+				{
+					"name": "screech",
+					"levelLearned": 23
+				},
+				{
+					"name": "detect",
+					"levelLearned": 47
+				},
+				{
+					"name": "false-swipe",
+					"levelLearned": 53
+				},
+				{
+					"name": "fury-cutter",
+					"levelLearned": 16
+				},
+				{
+					"name": "pursuit",
+					"levelLearned": 17
+				},
+				{
+					"name": "leaf-blade",
+					"levelLearned": 29
+				}
+			]
+		},
+		{
+			"name": "Sceptile",
+			"frontSprite": "f_sceptile",
+			"backSprite": "b_sceptile",
+			"cr": 45,
+			"type": "Grass",
+			"type2": "None",
+			"hp": 70,
+			"atk": 85,
+			"def": 65,
+			"spat": 105,
+			"spdef": 85,
+			"speed": 120,
+			"moves": [
+				{
+					"name": "pound",
+					"levelLearned": 1
+				},
+				{
+					"name": "slam",
+					"levelLearned": 43
+				},
+				{
+					"name": "leer",
+					"levelLearned": 1
+				},
+				{
+					"name": "absorb",
+					"levelLearned": 1
+				},
+				{
+					"name": "absorb",
+					"levelLearned": 6
+				},
+				{
+					"name": "agility",
+					"levelLearned": 35
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 1
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 11
+				},
+				{
+					"name": "screech",
+					"levelLearned": 23
+				},
+				{
+					"name": "detect",
+					"levelLearned": 51
+				},
+				{
+					"name": "false-swipe",
+					"levelLearned": 59
+				},
+				{
+					"name": "fury-cutter",
+					"levelLearned": 16
+				},
+				{
+					"name": "pursuit",
+					"levelLearned": 17
+				},
+				{
+					"name": "leaf-blade",
+					"levelLearned": 29
+				}
+			]
+		},
+		{
+			"name": "Torchic",
+			"frontSprite": "f_torchic",
+			"backSprite": "b_torchic",
+			"cr": 45,
+			"type": "Fire",
+			"type2": "None",
+			"hp": 45,
+			"atk": 60,
+			"def": 40,
+			"spat": 70,
+			"spdef": 50,
+			"speed": 45,
+			"moves": [
+				{
+					"name": "scratch",
+					"levelLearned": 1
+				},
+				{
+					"name": "sand-attack",
+					"levelLearned": 19
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 10
+				},
+				{
+					"name": "flamethrower",
+					"levelLearned": 43
+				},
+				{
+					"name": "peck",
+					"levelLearned": 16
+				},
+				{
+					"name": "fire-spin",
+					"levelLearned": 25
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 28
+				},
+				{
+					"name": "focus-energy",
+					"levelLearned": 7
+				},
+				{
+					"name": "mirror-move",
+					"levelLearned": 37
+				},
+				{
+					"name": "slash",
+					"levelLearned": 34
+				}
+			]
+		},
+		{
+			"name": "Combusken",
+			"frontSprite": "f_combusken",
+			"backSprite": "b_combusken",
+			"cr": 45,
+			"type": "Fire",
+			"type2": "Fighting",
+			"hp": 60,
+			"atk": 85,
+			"def": 60,
+			"spat": 85,
+			"spdef": 60,
+			"speed": 55,
+			"moves": [
+				{
+					"name": "scratch",
+					"levelLearned": 1
+				},
+				{
+					"name": "double-kick",
+					"levelLearned": 16
+				},
+				{
+					"name": "sand-attack",
+					"levelLearned": 21
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 13
+				},
+				{
+					"name": "peck",
+					"levelLearned": 17
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 32
+				},
+				{
+					"name": "focus-energy",
+					"levelLearned": 1
+				},
+				{
+					"name": "focus-energy",
+					"levelLearned": 7
+				},
+				{
+					"name": "mirror-move",
+					"levelLearned": 43
+				},
+				{
+					"name": "slash",
+					"levelLearned": 39
+				},
+				{
+					"name": "sky-uppercut",
+					"levelLearned": 50
+				},
+				{
+					"name": "bulk-up",
+					"levelLearned": 28
+				}
+			]
+		},
+		{
+			"name": "Blaziken",
+			"frontSprite": "f_blaziken",
+			"backSprite": "b_blaziken",
+			"cr": 45,
+			"type": "Fire",
+			"type2": "Fighting",
+			"hp": 80,
+			"atk": 120,
+			"def": 70,
+			"spat": 110,
+			"spdef": 70,
+			"speed": 80,
+			"moves": [
+				{
+					"name": "fire-punch",
+					"levelLearned": 1
+				},
+				{
+					"name": "scratch",
+					"levelLearned": 1
+				},
+				{
+					"name": "double-kick",
+					"levelLearned": 16
+				},
+				{
+					"name": "sand-attack",
+					"levelLearned": 21
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 1
+				},
+				{
+					"name": "ember",
+					"levelLearned": 13
+				},
+				{
+					"name": "peck",
+					"levelLearned": 17
+				},
+				{
+					"name": "quick-attack",
+					"levelLearned": 32
+				},
+				{
+					"name": "focus-energy",
+					"levelLearned": 1
+				},
+				{
+					"name": "focus-energy",
+					"levelLearned": 7
+				},
+				{
+					"name": "mirror-move",
+					"levelLearned": 49
+				},
+				{
+					"name": "slash",
+					"levelLearned": 42
+				},
+				{
+					"name": "blaze-kick",
+					"levelLearned": 36
+				},
+				{
+					"name": "sky-uppercut",
+					"levelLearned": 59
+				},
+				{
+					"name": "bulk-up",
+					"levelLearned": 28
+				}
+			]
+		},
+		{
+			"name": "Mudkip",
+			"frontSprite": "f_mudkip",
+			"backSprite": "b_mudkip",
+			"cr": 45,
+			"type": "Water",
+			"type2": "None",
+			"hp": 50,
+			"atk": 70,
+			"def": 50,
+			"spat": 50,
+			"spdef": 50,
+			"speed": 40,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "take-down",
+					"levelLearned": 28
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 10
+				},
+				{
+					"name": "hydro-pump",
+					"levelLearned": 42
+				},
+				{
+					"name": "bide",
+					"levelLearned": 15
+				},
+				{
+					"name": "protect",
+					"levelLearned": 37
+				},
+				{
+					"name": "mud-slap",
+					"levelLearned": 6
+				},
+				{
+					"name": "foresight",
+					"levelLearned": 19
+				},
+				{
+					"name": "whirlpool",
+					"levelLearned": 33
+				},
+				{
+					"name": "endeavor",
+					"levelLearned": 46
+				},
+				{
+					"name": "mud-sport",
+					"levelLearned": 24
+				}
+			]
+		},
+		{
+			"name": "Marshtomp",
+			"frontSprite": "f_marshtomp",
+			"backSprite": "b_marshtomp",
+			"cr": 45,
+			"type": "Water",
+			"type2": "Ground",
+			"hp": 70,
+			"atk": 85,
+			"def": 70,
+			"spat": 60,
+			"spdef": 70,
+			"speed": 50,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "take-down",
+					"levelLearned": 31
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 1
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 10
+				},
+				{
+					"name": "earthquake",
+					"levelLearned": 46
+				},
+				{
+					"name": "bide",
+					"levelLearned": 15
+				},
+				{
+					"name": "protect",
+					"levelLearned": 42
+				},
+				{
+					"name": "mud-slap",
+					"levelLearned": 1
+				},
+				{
+					"name": "mud-slap",
+					"levelLearned": 6
+				},
+				{
+					"name": "foresight",
+					"levelLearned": 20
+				},
+				{
+					"name": "endeavor",
+					"levelLearned": 53
+				},
+				{
+					"name": "mud-sport",
+					"levelLearned": 25
+				},
+				{
+					"name": "muddy-water",
+					"levelLearned": 37
+				},
+				{
+					"name": "mud-shot",
+					"levelLearned": 16
+				}
+			]
+		},
+		{
+			"name": "Swampert",
+			"frontSprite": "f_swampert",
+			"backSprite": "b_swampert",
+			"cr": 45,
+			"type": "Water",
+			"type2": "Ground",
+			"hp": 100,
+			"atk": 110,
+			"def": 90,
+			"spat": 85,
+			"spdef": 90,
+			"speed": 60,
+			"moves": [
+				{
+					"name": "tackle",
+					"levelLearned": 1
+				},
+				{
+					"name": "take-down",
+					"levelLearned": 31
+				},
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 1
+				},
+				{
+					"name": "water-gun",
+					"levelLearned": 10
+				},
+				{
+					"name": "earthquake",
+					"levelLearned": 52
+				},
+				{
+					"name": "bide",
+					"levelLearned": 15
+				},
+				{
+					"name": "protect",
+					"levelLearned": 46
+				},
+				{
+					"name": "mud-slap",
+					"levelLearned": 1
+				},
+				{
+					"name": "mud-slap",
+					"levelLearned": 6
+				},
+				{
+					"name": "foresight",
+					"levelLearned": 20
+				},
+				{
+					"name": "endeavor",
+					"levelLearned": 61
+				},
+				{
+					"name": "mud-sport",
+					"levelLearned": 25
+				},
+				{
+					"name": "muddy-water",
+					"levelLearned": 39
+				},
+				{
+					"name": "mud-shot",
+					"levelLearned": 16
+				}
+			]
+		},
+		{
+			"name": "Ralts",
+			"frontSprite": "f_ralts",
+			"backSprite": "b_ralts",
+			"cr": 235,
+			"type": "Psychic",
+			"type2": "Fairy",
+			"hp": 28,
+			"atk": 25,
+			"def": 25,
+			"spat": 45,
+			"spdef": 35,
+			"speed": 40,
+			"moves": [
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "confusion",
+					"levelLearned": 6
+				},
+				{
+					"name": "psychic",
+					"levelLearned": 26
+				},
+				{
+					"name": "hypnosis",
+					"levelLearned": 41
+				},
+				{
+					"name": "teleport",
+					"levelLearned": 16
+				},
+				{
+					"name": "double-team",
+					"levelLearned": 11
+				},
+				{
+					"name": "dream-eater",
+					"levelLearned": 46
+				},
+				{
+					"name": "future-sight",
+					"levelLearned": 36
+				},
+				{
+					"name": "imprison",
+					"levelLearned": 31
+				},
+				{
+					"name": "calm-mind",
+					"levelLearned": 21
+				}
+			]
+		},
+		{
+			"name": "Kirlia",
+			"frontSprite": "f_kirlia",
+			"backSprite": "b_kirlia",
+			"cr": 120,
+			"type": "Psychic",
+			"type2": "Fairy",
+			"hp": 38,
+			"atk": 35,
+			"def": 35,
+			"spat": 65,
+			"spdef": 55,
+			"speed": 50,
+			"moves": [
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "confusion",
+					"levelLearned": 1
+				},
+				{
+					"name": "confusion",
+					"levelLearned": 6
+				},
+				{
+					"name": "psychic",
+					"levelLearned": 26
+				},
+				{
+					"name": "hypnosis",
+					"levelLearned": 47
+				},
+				{
+					"name": "teleport",
+					"levelLearned": 1
+				},
+				{
+					"name": "teleport",
+					"levelLearned": 16
+				},
+				{
+					"name": "double-team",
+					"levelLearned": 1
+				},
+				{
+					"name": "double-team",
+					"levelLearned": 11
+				},
+				{
+					"name": "dream-eater",
+					"levelLearned": 54
+				},
+				{
+					"name": "future-sight",
+					"levelLearned": 40
+				},
+				{
+					"name": "imprison",
+					"levelLearned": 33
+				},
+				{
+					"name": "calm-mind",
+					"levelLearned": 21
+				}
+			]
+		},
+		{
+			"name": "Gardevoir",
+			"frontSprite": "f_gardevoir",
+			"backSprite": "b_gardevoir",
+			"cr": 45,
+			"type": "Psychic",
+			"type2": "Fairy",
+			"hp": 68,
+			"atk": 65,
+			"def": 65,
+			"spat": 125,
+			"spdef": 115,
+			"speed": 80,
+			"moves": [
+				{
+					"name": "growl",
+					"levelLearned": 1
+				},
+				{
+					"name": "confusion",
+					"levelLearned": 1
+				},
+				{
+					"name": "confusion",
+					"levelLearned": 6
+				},
+				{
+					"name": "psychic",
+					"levelLearned": 26
+				},
+				{
+					"name": "hypnosis",
+					"levelLearned": 51
+				},
+				{
+					"name": "teleport",
+					"levelLearned": 1
+				},
+				{
+					"name": "teleport",
+					"levelLearned": 16
+				},
+				{
+					"name": "double-team",
+					"levelLearned": 1
+				},
+				{
+					"name": "double-team",
+					"levelLearned": 11
+				},
+				{
+					"name": "dream-eater",
+					"levelLearned": 60
+				},
+				{
+					"name": "future-sight",
+					"levelLearned": 42
+				},
+				{
+					"name": "imprison",
+					"levelLearned": 33
+				},
+				{
+					"name": "calm-mind",
+					"levelLearned": 21
+				}
+			]
+		}
+	],
+	"moves": [
+		{
+			"name": "poison-powder",
+			"type": "Poison",
+			"power": null,
+			"accuracy": 75,
+			"alwaysHits": false,
+			"pp": 35,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "poison",
+				"volatileStatus": "none"
+			},
+			"description": "Scatters a toxic powder that may poison the foe."
+		},
+		{
+			"name": "razor-leaf",
+			"type": "Grass",
+			"power": 55,
+			"accuracy": 95,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Cuts the enemy with leaves. High critical-hit ratio."
+		},
+		{
+			"name": "sweet-scent",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "evasion",
+						"change": -2
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Allures the foe to reduce evasiveness."
+		},
+		{
+			"name": "growth",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "attack",
+						"change": 1
+					},
+					{
+						"stat": "special-attack",
+						"change": 1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Forces the body to grow and heightens SP. ATK."
+		},
+		{
+			"name": "synthesis",
+			"type": "Grass",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 5,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Restores HP. The amount varies with the weather."
+		},
+		{
+			"name": "sleep-powder",
+			"type": "Grass",
+			"power": null,
+			"accuracy": 75,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "sleep",
+				"volatileStatus": "none"
+			},
+			"description": "Scatters a powder that may cause the foe to sleep."
+		},
+		{
+			"name": "solar-beam",
+			"type": "Grass",
+			"power": 120,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Absorbs light in one turn, then attacks next turn."
+		},
+		{
+			"name": "leech-seed",
+			"type": "Grass",
+			"power": null,
+			"accuracy": 90,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "leech-seed",
+				"volatileStatus": "none"
+			},
+			"description": "Plants a seed on the foe to steal HP on every turn."
+		},
+		{
+			"name": "growl",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 40,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "attack",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Growls cutely to reduce the foe’s ATTACK."
+		},
+		{
+			"name": "tackle",
+			"type": "Normal",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 35,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Charges the foe with a full- body tackle."
+		},
+		{
+			"name": "vine-whip",
+			"type": "Grass",
+			"power": 45,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Strikes the foe with slender, whiplike vines."
+		},
+		{
+			"name": "smokescreen",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "accuracy",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Lowers the foe’s accuracy using smoke, ink, etc."
+		},
+		{
+			"name": "scary-face",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "speed",
+						"change": -2
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Frightens with a scary face to sharply reduce SPEED."
+		},
+		{
+			"name": "ember",
+			"type": "Fire",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "burn",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "A weak fire attack that may inflict a burn."
+		},
+		{
+			"name": "dragon-rage",
+			"type": "Dragon",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Launches shock waves that always inflict 40 HP damage."
+		},
+		{
+			"name": "flamethrower",
+			"type": "Fire",
+			"power": 90,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "burn",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "A powerful fire attack that may inflict a burn."
+		},
+		{
+			"name": "scratch",
+			"type": "Normal",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 35,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Scratches the foe with sharp claws."
+		},
+		{
+			"name": "rage",
+			"type": "Normal",
+			"power": 20,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Raises the user’s ATTACK every time it is hit."
+		},
+		{
+			"name": "fire-spin",
+			"type": "Fire",
+			"power": 35,
+			"accuracy": 85,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "trap",
+				"volatileStatus": "none"
+			},
+			"description": "Traps the foe in a ring of fire for 2 to 5 turns."
+		},
+		{
+			"name": "slash",
+			"type": "Normal",
+			"power": 70,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Slashes with claws, etc. Has a high critical-hit ratio."
+		},
+		{
+			"name": "wing-attack",
+			"type": "Flying",
+			"power": 60,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 35,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Strikes the foe with wings spread wide."
+		},
+		{
+			"name": "rapid-spin",
+			"type": "Normal",
+			"power": 50,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 40,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "speed",
+						"change": 1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Spins the body at high speed to strike the foe."
+		},
+		{
+			"name": "skull-bash",
+			"type": "Normal",
+			"power": 130,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Tucks in the head, then attacks on the next turn."
+		},
+		{
+			"name": "water-gun",
+			"type": "Water",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Squirts water to attack the foe."
+		},
+		{
+			"name": "bubble",
+			"type": "Water",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 30,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "speed",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An attack using bubbles. May lower the foe’s SPEED."
+		},
+		{
+			"name": "tail-whip",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 30,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "defense",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Wags the tail to lower the foe’s DEFENSE."
+		},
+		{
+			"name": "hydro-pump",
+			"type": "Water",
+			"power": 110,
+			"accuracy": 80,
+			"alwaysHits": false,
+			"pp": 5,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Blasts water at high power to strike the foe."
+		},
+		{
+			"name": "protect",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 10,
+			"priority": 4,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Evades attack, but may fail if used in succession."
+		},
+		{
+			"name": "rain-dance",
+			"type": "Water",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 5,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Boosts the power of WATER- type moves for 5 turns."
+		},
+		{
+			"name": "bite",
+			"type": "Dark",
+			"power": 60,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Bites with vicious fangs. May cause flinching."
+		},
+		{
+			"name": "withdraw",
+			"type": "Water",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 40,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "defense",
+						"change": 1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Withdraws the body into its hard shell to raise DEFENSE."
+		},
+		{
+			"name": "gust",
+			"type": "Flying",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 35,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Strikes the foe with a gust of wind whipped up by wings."
+		},
+		{
+			"name": "agility",
+			"type": "Psychic",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 30,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "speed",
+						"change": 2
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Relaxes the body to sharply boost SPEED."
+		},
+		{
+			"name": "sand-attack",
+			"type": "Ground",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "accuracy",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Reduces the foe’s accuracy by hurling sand in its face."
+		},
+		{
+			"name": "mirror-move",
+			"type": "Flying",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Counters the foe’s attack with the same move."
+		},
+		{
+			"name": "feather-dance",
+			"type": "Flying",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "attack",
+						"change": -2
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Envelops the foe with down to sharply reduce ATTACK."
+		},
+		{
+			"name": "quick-attack",
+			"type": "Normal",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 30,
+			"priority": 1,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An extremely fast attack that always strikes first."
+		},
+		{
+			"name": "whirlwind",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": -6,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Blows away the foe with wind and ends the battle."
+		},
+		{
+			"name": "double-team",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 15,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "evasion",
+						"change": 1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Creates illusory copies to raise evasiveness."
+		},
+		{
+			"name": "thunder",
+			"type": "Electric",
+			"power": 110,
+			"accuracy": 70,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "paralysis",
+					"volatileStatus": "none",
+					"chance": 30,
+					"target": "foe"
+				}
+			],
+			"description": "A lightning attack that may cause paralysis."
+		},
+		{
+			"name": "light-screen",
+			"type": "Psychic",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 30,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Creates a wall of light that lowers SP. ATK damage."
+		},
+		{
+			"name": "thunderbolt",
+			"type": "Electric",
+			"power": 90,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "paralysis",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "A strong electrical attack that may paralyze the foe."
+		},
+		{
+			"name": "thunder-wave",
+			"type": "Electric",
+			"power": null,
+			"accuracy": 90,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "paralysis",
+				"volatileStatus": "none"
+			},
+			"description": "A weak jolt of electricity that paralyzes the foe."
+		},
+		{
+			"name": "thunder-shock",
+			"type": "Electric",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 30,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "paralysis",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "An electrical attack that may paralyze the foe."
+		},
+		{
+			"name": "spite",
+			"type": "Ghost",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Spitefully cuts the PP of the foe’s last move."
+		},
+		{
+			"name": "hypnosis",
+			"type": "Psychic",
+			"power": null,
+			"accuracy": 60,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "sleep",
+				"volatileStatus": "none"
+			},
+			"description": "A hypnotizing move that may induce sleep."
+		},
+		{
+			"name": "dream-eater",
+			"type": "Psychic",
+			"power": 100,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Takes one half the damage inflicted on a sleeping foe."
+		},
+		{
+			"name": "lick",
+			"type": "Ghost",
+			"power": 30,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 30,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "paralysis",
+					"volatileStatus": "none",
+					"chance": 30,
+					"target": "foe"
+				}
+			],
+			"description": "Licks with a long tongue to injure. May also paralyze."
+		},
+		{
+			"name": "curse",
+			"type": "Ghost",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 10,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A move that functions differently for GHOSTS."
+		},
+		{
+			"name": "night-shade",
+			"type": "Ghost",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Inflicts damage identical to the user’s level."
+		},
+		{
+			"name": "confuse-ray",
+			"type": "Ghost",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "confusion",
+				"volatileStatus": "none"
+			},
+			"description": "A sinister ray that confuses the foe."
+		},
+		{
+			"name": "slam",
+			"type": "Normal",
+			"power": 80,
+			"accuracy": 75,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Slams the foe with a long tail, vine, etc."
+		},
+		{
+			"name": "shadow-punch",
+			"type": "Ghost",
+			"power": 60,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An unavoidable punch that is thrown from shadows."
+		},
+		{
+			"name": "mean-look",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 5,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Fixes the foe with a mean look that prevents escape."
+		},
+		{
+			"name": "destiny-bond",
+			"type": "Ghost",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 5,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "If the user faints, the foe is also made to faint."
+		},
+		{
+			"name": "mist",
+			"type": "Ice",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 30,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Creates a mist that stops reduction of abilities."
+		},
+		{
+			"name": "body-slam",
+			"type": "Normal",
+			"power": 85,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "paralysis",
+					"volatileStatus": "none",
+					"chance": 30,
+					"target": "foe"
+				}
+			],
+			"description": "A full-body slam that may cause paralysis."
+		},
+		{
+			"name": "safeguard",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 25,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A mystical force prevents all status problems."
+		},
+		{
+			"name": "perish-song",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 5,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "perish-song",
+				"volatileStatus": "none"
+			},
+			"description": "Any POKéMON hearing this song faints in 3 turns."
+		},
+		{
+			"name": "sing",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 55,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "sleep",
+				"volatileStatus": "none"
+			},
+			"description": "A soothing song lulls the foe into a deep slumber."
+		},
+		{
+			"name": "ice-beam",
+			"type": "Ice",
+			"power": 90,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "freeze",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "Blasts the foe with an icy beam that may freeze it."
+		},
+		{
+			"name": "sheer-cold",
+			"type": "Ice",
+			"power": null,
+			"accuracy": 30,
+			"alwaysHits": false,
+			"pp": 5,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A chilling attack that causes fainting if it hits."
+		},
+		{
+			"name": "covet",
+			"type": "Normal",
+			"power": 60,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Cutely begs to obtain an item held by the foe."
+		},
+		{
+			"name": "defense-curl",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 40,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "defense",
+						"change": 1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Curls up to conceal weak spots and raise DEFENSE."
+		},
+		{
+			"name": "headbutt",
+			"type": "Normal",
+			"power": 70,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A ramming attack that may cause flinching."
+		},
+		{
+			"name": "rollout",
+			"type": "Rock",
+			"power": 30,
+			"accuracy": 90,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An attack lasting 5 turns with rising intensity."
+		},
+		{
+			"name": "snore",
+			"type": "Normal",
+			"power": 50,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A loud attack that can be used only while asleep."
+		},
+		{
+			"name": "hyper-beam",
+			"type": "Normal",
+			"power": 150,
+			"accuracy": 90,
+			"alwaysHits": false,
+			"pp": 5,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Powerful, but leaves the user immobile the next turn."
+		},
+		{
+			"name": "block",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 5,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Blocks the foe’s way to prevent escape."
+		},
+		{
+			"name": "belly-drum",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 10,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Maximizes ATTACK while sacrificing HP."
+		},
+		{
+			"name": "rest",
+			"type": "Psychic",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 10,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "The user sleeps for 2 turns, restoring HP and status."
+		},
+		{
+			"name": "blizzard",
+			"type": "Ice",
+			"power": 110,
+			"accuracy": 70,
+			"alwaysHits": false,
+			"pp": 5,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "freeze",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "Hits the foe with an icy storm that may freeze it."
+		},
+		{
+			"name": "mind-reader",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 5,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Senses the foe’s action to ensure the next move’s hit."
+		},
+		{
+			"name": "powder-snow",
+			"type": "Ice",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "freeze",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "Blasts the foe with a snowy gust. May cause freezing."
+		},
+		{
+			"name": "reflect",
+			"type": "Psychic",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Creates a wall of light that weakens physical attacks."
+		},
+		{
+			"name": "charge",
+			"type": "Electric",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "special-defense",
+						"change": 1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Charges power to boost the electric move used next."
+		},
+		{
+			"name": "detect",
+			"type": "Fighting",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 5,
+			"priority": 4,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Evades attack, but may fail if used in succession."
+		},
+		{
+			"name": "drill-peck",
+			"type": "Flying",
+			"power": 80,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A corkscrewing attack with the beak acting as a drill."
+		},
+		{
+			"name": "peck",
+			"type": "Flying",
+			"power": 35,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 35,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Attacks the foe with a jabbing beak, etc."
+		},
+		{
+			"name": "yawn",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 10,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "yawn",
+				"volatileStatus": "none"
+			},
+			"description": "Lulls the foe into yawning, then sleeping next turn."
+		},
+		{
+			"name": "sky-attack",
+			"type": "Flying",
+			"power": 140,
+			"accuracy": 90,
+			"alwaysHits": false,
+			"pp": 5,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Searches out weak spots, then strikes the next turn."
+		},
+		{
+			"name": "heat-wave",
+			"type": "Fire",
+			"power": 95,
+			"accuracy": 90,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "burn",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "Exhales a hot breath on the foe. May inflict a burn."
+		},
+		{
+			"name": "endure",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 10,
+			"priority": 4,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Endures any attack for 1 turn, leaving at least 1HP."
+		},
+		{
+			"name": "twister",
+			"type": "Dragon",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Whips up a vicious twister to tear at the foe."
+		},
+		{
+			"name": "wrap",
+			"type": "Normal",
+			"power": 15,
+			"accuracy": 90,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "trap",
+				"volatileStatus": "none"
+			},
+			"description": "Wraps and squeezes the foe 2 to 5 times with vines, etc."
+		},
+		{
+			"name": "leer",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 30,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "defense",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Frightens the foe with a leer to lower DEFENSE."
+		},
+		{
+			"name": "outrage",
+			"type": "Dragon",
+			"power": 120,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A rampage of 2 to 3 turns that confuses the user."
+		},
+		{
+			"name": "amnesia",
+			"type": "Psychic",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "special-defense",
+						"change": 2
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Forgets about something and sharply raises SP. DEF."
+		},
+		{
+			"name": "flame-wheel",
+			"type": "Fire",
+			"power": 60,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "burn",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "A fiery charge attack that may inflict a burn."
+		},
+		{
+			"name": "swift",
+			"type": "Normal",
+			"power": 60,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Sprays star-shaped rays that never miss."
+		},
+		{
+			"name": "screech",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 85,
+			"alwaysHits": false,
+			"pp": 40,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "defense",
+						"change": -2
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Emits a screech to sharply reduce the foe’s DEFENSE."
+		},
+		{
+			"name": "pursuit",
+			"type": "Dark",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Inflicts bad damage if used on a foe switching out."
+		},
+		{
+			"name": "pound",
+			"type": "Normal",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 35,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Pounds the foe with forelegs or tail."
+		},
+		{
+			"name": "mega-drain",
+			"type": "Grass",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An attack that absorbs half the damage inflicted."
+		},
+		{
+			"name": "absorb",
+			"type": "Grass",
+			"power": 20,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An attack that absorbs half the damage inflicted."
+		},
+		{
+			"name": "giga-drain",
+			"type": "Grass",
+			"power": 75,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An attack that steals half the damage inflicted."
+		},
+		{
+			"name": "fury-cutter",
+			"type": "Bug",
+			"power": 40,
+			"accuracy": 95,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An attack that intensifies on each successive hit."
+		},
+		{
+			"name": "false-swipe",
+			"type": "Normal",
+			"power": 40,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 40,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An attack that leaves the foe with at least 1 HP."
+		},
+		{
+			"name": "leaf-blade",
+			"type": "Grass",
+			"power": 90,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Slashes with a sharp leaf. High critical-hit ratio."
+		},
+		{
+			"name": "focus-energy",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 30,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Focuses power to raise the critical-hit ratio."
+		},
+		{
+			"name": "bulk-up",
+			"type": "Fighting",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "attack",
+						"change": 1
+					},
+					{
+						"stat": "defense",
+						"change": 1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Bulks up the body to boost both ATTACK and DEFENSE."
+		},
+		{
+			"name": "double-kick",
+			"type": "Fighting",
+			"power": 30,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 30,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A double-kicking attack that strikes the foe twice."
+		},
+		{
+			"name": "sky-uppercut",
+			"type": "Fighting",
+			"power": 85,
+			"accuracy": 90,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "An uppercut thrown as if leaping into the sky."
+		},
+		{
+			"name": "blaze-kick",
+			"type": "Fire",
+			"power": 85,
+			"accuracy": 90,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "burn",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "A kick with a high critical- hit ratio. May cause a burn."
+		},
+		{
+			"name": "fire-punch",
+			"type": "Fire",
+			"power": 75,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "burn",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "A fiery punch that may burn the foe."
+		},
+		{
+			"name": "endeavor",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 5,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Gains power if the user’s HP is lower than the foe’s HP."
+		},
+		{
+			"name": "foresight",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 40,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "no-type-immunity",
+				"volatileStatus": "none"
+			},
+			"description": "Negates the foe’s efforts to heighten evasiveness."
+		},
+		{
+			"name": "whirlpool",
+			"type": "Water",
+			"power": 35,
+			"accuracy": 85,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "trap",
+				"volatileStatus": "none"
+			},
+			"description": "Traps and hurts the foe in a whirlpool for 2 to 5 turns."
+		},
+		{
+			"name": "bide",
+			"type": "Normal",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 10,
+			"priority": 1,
+			"category": "Physical",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Endures attack for 2 turns to retaliate double."
+		},
+		{
+			"name": "take-down",
+			"type": "Normal",
+			"power": 90,
+			"accuracy": 85,
+			"alwaysHits": false,
+			"pp": 20,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A reckless charge attack that also hurts the user."
+		},
+		{
+			"name": "mud-sport",
+			"type": "Ground",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 15,
+			"priority": 0,
+			"category": "Status",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Covers the user in mud to raise electrical resistance."
+		},
+		{
+			"name": "mud-slap",
+			"type": "Ground",
+			"power": 20,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "accuracy",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Hurls mud in the foe’s face to reduce its accuracy."
+		},
+		{
+			"name": "earthquake",
+			"type": "Ground",
+			"power": 100,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Physical",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A powerful quake, but has no effect on flying foes."
+		},
+		{
+			"name": "mud-shot",
+			"type": "Ground",
+			"power": 55,
+			"accuracy": 95,
+			"alwaysHits": false,
+			"pp": 15,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "speed",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Hurls mud at the foe and reduces SPEED."
+		},
+		{
+			"name": "muddy-water",
+			"type": "Water",
+			"power": 90,
+			"accuracy": 85,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "accuracy",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Attacks with muddy water. May lower accuracy."
+		},
+		{
+			"name": "imprison",
+			"type": "Psychic",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 10,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Prevents foes from using moves known by the user."
+		},
+		{
+			"name": "psychic",
+			"type": "Psychic",
+			"power": 90,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "special-defense",
+						"change": -1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A powerful psychic attack that may lower SP. DEF."
+		},
+		{
+			"name": "teleport",
+			"type": "Psychic",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": -6,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "A psychic move for fleeing from battle instantly."
+		},
+		{
+			"name": "future-sight",
+			"type": "Psychic",
+			"power": 120,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 10,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Heightens inner power to strike 2 turns later."
+		},
+		{
+			"name": "calm-mind",
+			"type": "Psychic",
+			"power": null,
+			"accuracy": 100,
+			"alwaysHits": true,
+			"pp": 20,
+			"priority": 0,
+			"category": "Status",
+			"target": "self",
+			"effects": {
+				"boosts": [
+					{
+						"stat": "special-attack",
+						"change": 1
+					},
+					{
+						"stat": "special-defense",
+						"change": 1
+					}
+				],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"description": "Raises SP. ATK and SP. DEF by focusing the mind."
+		},
+		{
+			"name": "confusion",
+			"type": "Psychic",
+			"power": 50,
+			"accuracy": 100,
+			"alwaysHits": false,
+			"pp": 25,
+			"priority": 0,
+			"category": "Special",
+			"target": "foe",
+			"effects": {
+				"boosts": [],
+				"status": "none",
+				"volatileStatus": "none"
+			},
+			"secondaries": [
+				{
+					"boosts": [],
+					"status": "confusion",
+					"volatileStatus": "none",
+					"chance": 10,
+					"target": "foe"
+				}
+			],
+			"description": "A psychic attack that may cause confusion."
+		}
+	]
+}
