@@ -32,8 +32,17 @@ const process = async (pokemon) => {
         const data = await p.getPokemonByName(pokemon.name)
         const species = await p.getPokemonSpeciesByName(data.species.name)
         obj['cr'] = species.capture_rate
-        obj["type"] = capitalize(data.types[0].type.name)
-        obj["type2"] = data.types.length > 1 ? capitalize(data.types[1].type.name) : "None"
+        if (data.past_types.length === 0) {
+            obj["type"] = capitalize(data.types[0].type.name)
+            obj["type2"] = data.types.length > 1 ? capitalize(data.types[1].type.name) : "None"
+        } else { //not 100% accurate but good enough
+            obj["type"] = capitalize(data.past_types[0].types[0].type.name)
+            obj["type2"] = data.past_types[0].types > 1 ? capitalize(data.past_types[0].types[1].type.name) : "None"
+        }
+        species.flavor_text_entries.forEach(ft => {
+            if (ft.language.name === 'en' && ft.version.name === 'emerald')
+                obj['description'] = ft.flavor_text.replaceAll('\n', ' ')
+        })
         data.stats.forEach(stat => {
             switch (stat.stat.name) {
                 case 'hp':
