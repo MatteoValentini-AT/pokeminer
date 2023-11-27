@@ -39,9 +39,29 @@ const process = async (pokemon) => {
             obj["type"] = capitalize(data.past_types[0].types[0].type.name)
             obj["type2"] = data.past_types[0].types > 1 ? capitalize(data.past_types[0].types[1].type.name) : "None"
         }
+        obj['growth_rate'] = species.growth_rate.name;
+        obj['base_experience'] = data.base_experience;
+        obj['weight'] = data.weight;
+        obj['height'] = data.height;
         species.flavor_text_entries.forEach(ft => {
             if (ft.language.name === 'en' && ft.version.name === 'emerald')
                 obj['description'] = ft.flavor_text.replaceAll('\n', ' ')
+        })
+        obj['names'] = []
+        obj['descriptions'] = []
+        species.names.forEach(n => {
+            if(n.language.name === 'en' || n.language.name === 'de')
+                obj['names'].push({
+                    language: n.language.name,
+                    name: n.name
+                })
+        })
+        species.flavor_text_entries.forEach(ft => {
+            if (ft.version.name === 'emerald' && (ft.language.name === 'en' || ft.language.name === 'de'))
+                obj['descriptions'].push({
+                    language: ft.language.name,
+                    description: ft.flavor_text.replaceAll('\n', ' ')
+                })
         })
         data.stats.forEach(stat => {
             switch (stat.stat.name) {
@@ -123,6 +143,22 @@ const process = async (pokemon) => {
                         moveData.flavor_text_entries.forEach(ft => {
                             if (ft.language.name === 'en' && ft.version_group.name === 'emerald')
                                 moveObj['description'] = ft.flavor_text.replaceAll('\n', ' ')
+                        })
+                        moveObj['descriptions'] = []
+                        moveData.flavor_text_entries.forEach(ft => {
+                            if (ft.version_group.name === 'emerald' && (ft.language.name === 'en' || ft.language.name === 'de'))
+                                moveObj['descriptions'].push({
+                                    language: ft.language.name,
+                                    description: ft.flavor_text.replaceAll('\n', ' ')
+                                })
+                        })
+                        moveObj['names'] = []
+                        moveData.names.forEach(n => {
+                            if(n.language.name === 'en' || n.language.name === 'de')
+                                moveObj['names'].push({
+                                    language: n.language.name,
+                                    name: n.name
+                                })
                         })
                         moveOut.push(moveObj)
                     }
