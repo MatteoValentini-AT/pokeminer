@@ -1,5 +1,6 @@
 import Pokedex from 'pokedex-promise-v2';
 import {readFileSync, writeFileSync} from 'fs';
+import { debug } from 'console';
 const p = new Pokedex();
 
 const wanted = []
@@ -11,7 +12,7 @@ const pokemons = await p.getPokemonsList().then(pokemon => pokemon.results.filte
 const pokemonOut = []
 const moveNames = []
 const moveOut = []
-
+const GrowthRates = []
 console.log("Filtering done")
 
 const capitalize = (input) => {
@@ -40,6 +41,7 @@ const process = async (pokemon) => {
             obj["type2"] = data.past_types[0].types > 1 ? capitalize(data.past_types[0].types[1].type.name) : "None"
         }
         obj['growth_rate'] = species.growth_rate.name;
+        if(GrowthRates.indexOf(species.growth_rate.name) < 0) GrowthRates.push(species.growth_rate.name);
         obj['base_experience'] = data.base_experience;
         obj['weight'] = data.weight;
         obj['height'] = data.height;
@@ -53,14 +55,15 @@ const process = async (pokemon) => {
             if(n.language.name === 'en' || n.language.name === 'de')
                 obj['names'].push({
                     language: n.language.name,
-                    name: n.name
+                    text: n.name
                 })
         })
         species.flavor_text_entries.forEach(ft => {
-            if (ft.version.name === 'emerald' && (ft.language.name === 'en' || ft.language.name === 'de'))
+            //console.log(ft.version.name + " " + ft.language.name + ": " + ft.flavor_text.replaceAll('\n', ' '))
+            if ((ft.version.name === 'emerald' && ft.language.name === 'en') || ((ft.version.name === 'x-y' || ft.version.name === 'x') && ft.language.name === 'de'))
                 obj['descriptions'].push({
                     language: ft.language.name,
-                    description: ft.flavor_text.replaceAll('\n', ' ')
+                    text: ft.flavor_text.replaceAll('\n', ' ')
                 })
         })
         data.stats.forEach(stat => {
@@ -146,10 +149,11 @@ const process = async (pokemon) => {
                         })
                         moveObj['descriptions'] = []
                         moveData.flavor_text_entries.forEach(ft => {
-                            if (ft.version_group.name === 'emerald' && (ft.language.name === 'en' || ft.language.name === 'de'))
+                            // console.log(ft.version_group.name + " " + ft.language.name + ": " + ft.flavor_text.replaceAll('\n', ' '));
+                            if ((ft.version_group.name === 'emerald' && ft.language.name === 'en') ||(ft.version_group.name === 'x-y' && ft.language.name === 'de'))
                                 moveObj['descriptions'].push({
                                     language: ft.language.name,
-                                    description: ft.flavor_text.replaceAll('\n', ' ')
+                                    text: ft.flavor_text.replaceAll('\n', ' ')
                                 })
                         })
                         moveObj['names'] = []
@@ -181,5 +185,5 @@ writeFileSync('out.json', JSON.stringify({
     pokemon: pokemonOut,
     moves: moveOut
 }))
-
+console.log(GrowthRates)
 console.log("Done")
