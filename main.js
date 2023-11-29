@@ -161,7 +161,7 @@ const process = async (pokemon) => {
                             if(n.language.name === 'en' || n.language.name === 'de')
                                 moveObj['names'].push({
                                     language: n.language.name,
-                                    name: n.name
+                                    text: n.name
                                 })
                         })
                         moveOut.push(moveObj)
